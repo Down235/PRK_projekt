@@ -1,0 +1,17 @@
+COMMA=1
+LPAREN=2
+RPAREN=3
+PLUS=4
+MLPLY=5
+ZERO=6
+NonZeroD=7
+InvStart=8
+LogStart=9
+WS=10
+','=1
+'('=2
+')'=3
+'+'=4
+'*'=5
+'inv('=8
+'log('=9
